@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Content 01",
+    "price": "120.99",
+    "description": "Content 01 description contents goes here",
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "contents/public_Key_Content_01",
+        "url": "https://res.dscrvr.com/projectName/uploads/source01.jpg"
+      }
+    ],
+    "category": "CATEGORY 1",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Content 02",
+    "price": "990.00",
+    "description": "Content 02 description contents goes here",
+    "rating": 2.9,
+    "images": [
+      {
+        "public_id": "contents/public_Key_Content_02",
+        "url": "https://res.dscrvr.com/projectName/uploads/source02.jpg"
+      }
+    ],
+    "category": "CATEGORY 2",
+    "seller": "ebay",
+    "stock": 61,
+    "numOfReviews": 17,
+    "reviews": []
+  },
+  {
+    "name": "Content 03",
+    "price": "10.75",
+    "description": "Content 03 description contents goes here",
+    "rating": 3.0,
+    "images": [
+      {
+        "public_id": "contents/public_Key_Content_03",
+        "url": "https://res.dscrvr.com/projectName/uploads/source03.jpg"
+      }
+    ],
+    "category": "CATEGORY 3",
+    "seller": "jumia",
+    "stock": 11,
+    "numOfReviews": 2,
+    "reviews": []
+  }
+]
